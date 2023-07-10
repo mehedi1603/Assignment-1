@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 700px;
+    width: 1920px;
+    background-color: bisque;
+    justify-content: space-around;
+
+}
+.htext{
+    margin-left: 200px;
+    height: 508px;
+    width: 600px;
+}
+.title{
+    
+    font-size: 70px;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 22px;
+}
+.btn{
+    background-color: rgb(228, 37, 69);
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+ .hpic{
+    width: 500px;
+    padding-top: 80px;
+    padding-right: 100px;
+}
