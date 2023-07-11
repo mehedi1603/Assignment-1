@@ -60,7 +60,7 @@ p{
     justify-content: space-around;
     margin: 0px 200px 10px 200px;
     /* padding-bottom: 10px; */
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .pic1{
     /* border: 2px solid black; */
@@ -104,4 +104,29 @@ p{
     font-weight: bold;
     text-decoration: underline;
     cursor: pointer;
+}
+.order{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px 200px 10px 200px;
+    /* padding-bottom: 10px; */
+    /* border: 2px solid black; */
+    background-color: azure;
+    padding: 50px;
+
+}
+.otitle{
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.icon1{
+    /* display: block; */
+    margin-left: 60px;
+}
+.icon3{
+    margin-left: 10px;
 }
