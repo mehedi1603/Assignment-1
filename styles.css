@@ -29,6 +29,9 @@ header div p{
     border-radius: 10px;
     border: none;
 }
+.btn:hover{
+    cursor: pointer;
+}
  .hpic{
     width: 500px;
     padding-top: 80px;
