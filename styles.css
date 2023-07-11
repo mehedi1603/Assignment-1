@@ -9,7 +9,7 @@
     align-items: center;
     height: 100%;
     width: 100%;
-    background-color: bisque;
+    background-color: rgba(255, 228, 196, 0.788);
     justify-content: space-between;
 
 }
@@ -191,4 +191,21 @@ p{
     border-radius: 10px;
     margin-top: 20px;
     margin-right: 10px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 70px 100px 100px 100px;
+
+}
+.foot{
+    width: 40%;
+    margin-left: 300px;
+}
+.fp{
+    font-size: large;
+}
+span{
+    color:red;
 }
